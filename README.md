@@ -10,7 +10,8 @@ Tools that are under development:
 
 ## Project status
 This is a passion project and is developped during nights and weekends. 
-!Update! As of December 2025, Google no longer allows for a high volume of requests per minute/day to their Gemini Models. Unfortunately, this means that this tool is only useful to you if you decide to either replace the API calls from Gemini, to an alternative local/remote model that allows for a high volume of requests/minute or if you decide to upgrade to a paid tier of Gemini. 
+
+**!Update!** As of December 2025, Google no longer allows for a high volume of requests per minute/day to their Gemini Models. Unfortunately, this means that this tool is only useful to you if you decide to either replace the API calls from Gemini, to an alternative local/remote model that allows for a high volume of requests/minute or if you decide to upgrade to a paid tier of Gemini. 
 
 ## Literature Review AI Assistants:
 ### What can it do?
